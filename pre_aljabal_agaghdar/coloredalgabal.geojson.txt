@@ -1,0 +1,1395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#f24207",
+        "marker-size": "medium",
+        "station_name": "emsaed",
+        "statuse": "end",
+        "end_at": "2 C-AD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78515625,
+          31.781882156411022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#2b11e8",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Connection_Name": "09505 ODUC2# Emsaed Tobruk",
+        "statuse": "submarine",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.93646240234375,
+            32.09420948699398
+          ],
+          [
+            24.779663085937496,
+            31.795889640575172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ed790c",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Connection_Name": "09751 ODU4# Emsaed Tobruk",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.81674194335937,
+            31.70947636001935
+          ],
+          [
+            23.874664306640625,
+            32.095372898256436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0c1be9",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "03560 ODUC2# Derna Tobruk",
+        "statuse": "submarine"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.785400390625,
+            32.09420948699398
+          ],
+          [
+            22.61260986328125,
+            32.73877198768001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#2df505",
+        "marker-size": "medium",
+        "statuse": "end",
+        "station_name": "drana",
+        "end_at": "4 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.604370117187496,
+          32.6833081730721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#f20707",
+        "marker-size": "medium",
+        "statuse": "end",
+        "station_name": "tubrq",
+        "end_at": "5 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9227294921875,
+          31.751525328078905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e17209",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "09036 ODU4# Site 1 Tobruk",
+        "station_name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.882904052734375,
+            31.781882156411022
+          ],
+          [
+            22.05230712890625,
+            31.196356957735073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e66d0a",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "01402 ODU4# Site 1 Tobruk"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.880157470703125,
+            31.85423130442635
+          ],
+          [
+            22.03857421875,
+            31.33252503230784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#e52706",
+        "marker-size": "medium",
+        "station_name": "Jdabya",
+        "statuse": "end",
+        "end_at": "1 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1104736328125,
+          30.713503990354965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "05093 ODU4# Derna Tobruk",
+        "end_at": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.81561279296875,
+            32.02903481873586
+          ],
+          [
+            22.59613037109375,
+            32.6925545366082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#df3207",
+        "marker-size": "medium",
+        "station_name": "Banghazi",
+        "statuse": "end",
+        "end_at": "1 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.203857421875,
+          32.24997445586331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7df406",
+        "marker-size": "medium",
+        "station_name": "Elbeda",
+        "statuse": "end",
+        "start_at": "2 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.92596435546875,
+          32.690243035492266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#ec2b09",
+        "marker-size": "medium",
+        "station_name": "Drna",
+        "statuse": "end",
+        "end_at": "1 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.61260986328125,
+          32.731840896865684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#f50505",
+        "marker-size": "medium",
+        "station_name": "Tubruq",
+        "statuse": "end",
+        "end_at": "1 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.880157470703125,
+          32.091882620021806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#5cf50a",
+        "marker-size": "medium",
+        "station_name": "Emsaed",
+        "statuse": "start",
+        "start_at": "1 C-AD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.819488525390625,
+          31.703634716625768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7ded0c",
+        "marker-size": "medium",
+        "statuse": "start",
+        "station_name": "drna3",
+        "start_at": "4 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.53021240234375,
+          32.731840896865684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#80f708",
+        "marker-size": "medium",
+        "statuse": "start",
+        "station_name": "drna3",
+        "start_at": "4 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.51373291015625,
+          32.58153501413734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "station_name": "Susa",
+        "statuse": "start",
+        "start_at": "1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.14019775390625,
+          32.914179661793504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#97f50a",
+        "marker-size": "medium",
+        "statuse": "start",
+        "start_at": "2 C-AD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0550537109375,
+          31.325486676506983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#e91e07",
+        "marker-size": "medium",
+        "station_name": "Elmarj",
+        "statuse": "end",
+        "end_at": "1 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.87127685546875,
+          32.49702177562046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#48ef0b",
+        "marker-size": "medium",
+        "station_name": "Tubruq-2",
+        "statuse": "start",
+        "start_at": "2 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9501953125,
+          32.08257455954592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#47f109",
+        "marker-size": "medium",
+        "station_name": "Tubruq-3",
+        "statuse": "start",
+        "start_at": "3 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79638671875,
+          32.091882620021806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#f50a0a",
+        "marker-size": "medium",
+        "station_name": "Tubrq-4",
+        "statuse": "start",
+        "start_at": "2 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.818359375,
+          32.01972036197235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7aed07",
+        "marker-size": "medium",
+        "station_name": "site 1-2",
+        "statuse": "start",
+        "start_at": "2 C-AD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.060546874999996,
+          31.194007509998823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#e7440d",
+        "marker-size": "medium",
+        "station_name": "Tubruq -5",
+        "statuse": "end",
+        "end_at": "5 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.90625,
+          31.835565983656227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7aef06",
+        "marker-size": "medium",
+        "station_name": "Tulmetha",
+        "statuse": "start",
+        "start_at": "1 C-AD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.96466064453125,
+          32.68908726249159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#10ed0c",
+        "marker-size": "medium",
+        "station_name": "Tulmetha-2",
+        "statuse": "start",
+        "start_at": "2 C-AD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.944061279296875,
+          32.6833081730721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#e62b0a",
+        "marker-size": "medium",
+        "station_name": "Elmarj-2",
+        "statuse": "end",
+        "end_at": "2 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.96466064453125,
+          32.46806060917602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#f24e07",
+        "marker-size": "medium",
+        "station_name": "elbeda -2",
+        "statuse": "end",
+        "end_at": "1 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.785888671874996,
+          32.73646168396554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#44e708",
+        "marker-size": "medium",
+        "station_name": "elbeda-3",
+        "start_at": "3 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8572998046875,
+          32.648625783736726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#f20707",
+        "marker-size": "medium",
+        "station_name": "benghazi-2",
+        "statuse": "end",
+        "end_at": "2 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2532958984375,
+          32.20582936513577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#2fec09",
+        "marker-size": "medium",
+        "station_name": "Bnghazi-3",
+        "statuse": "start",
+        "start_at": "3 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.15167236328125,
+          32.1570124860701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#22f406",
+        "marker-size": "medium",
+        "station_name": "Benghazi-5",
+        "statuse": "start",
+        "start_at": "5 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.194244384765625,
+          32.12212726745142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#ef2d0b",
+        "marker-size": "medium",
+        "station_name": "Elmarj-5",
+        "statuse": "end",
+        "end_at": "5 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.889129638671875,
+          32.338200271527754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#72ef0b",
+        "marker-size": "medium",
+        "station_name": "Benghazi-5",
+        "statuse": "start",
+        "start_at": "5 C-AD (O24CC-1\\/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.20660400390625,
+          32.03602003973755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#d57910",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "06321 ODUC2# Derna Marij",
+        "station_name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.5,
+            32.590791901737894
+          ],
+          [
+            20.9564208984375,
+            32.47732919639942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e28708",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Namee": "00581 ODU4# Benghazi Derna"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.57415771484375,
+            32.42865847084369
+          ],
+          [
+            20.188751220703125,
+            32.12910537866883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#bee10e",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "01315 ODUC2# Byda Derna"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.785888671874996,
+            32.74570253945518
+          ],
+          [
+            22.5054931640625,
+            32.73415132036002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ed790c",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "04450 ODUC2# Marij Tolmeta"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.87127685546875,
+            32.498180028410744
+          ],
+          [
+            20.96328735351562,
+            32.69139879353123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0e27e1",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "01509 ODUC2# Benghazi Tolmeta",
+        "statuse": "submarine"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.93719482421875,
+            32.685619853722
+          ],
+          [
+            20.203857421875,
+            32.252297287645575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#f10404",
+        "marker-size": "medium",
+        "statuse": "end",
+        "station_name": "beda end 3",
+        "end_at": "4 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.68426513671875,
+          32.637061996573436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#2fec09",
+        "marker-size": "medium",
+        "statuse": "start",
+        "station_name": "marj-2start",
+        "start_at": "4 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.91659545898437,
+          32.507445513754526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f99406",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection-Name": "06157 ODUC2# Byda Marij"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.91522216796875,
+            32.509761735919426
+          ],
+          [
+            21.67327880859375,
+            32.646313145909126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f48506",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "04406 ODUC2# Benghazi Byda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.8353271484375,
+            32.66018807572586
+          ],
+          [
+            20.247802734375,
+            32.210477226433824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#64ec09",
+        "marker-size": "medium",
+        "statuse": "start",
+        "station_name": "benghazi2",
+        "start_at": "2 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.31646728515625,
+          32.25694277294588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#f0380a",
+        "marker-size": "medium",
+        "statuse": "end",
+        "station_name": "marg-3",
+        "end_at": "3 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.91659545898437,
+          32.62780989050403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "04570 ODUC2# Benghazi Marij"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.91659545898437,
+            32.63012300670739
+          ],
+          [
+            20.315093994140625,
+            32.25926542645933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f17604",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "07510 ODUC2# Benghazi Marij"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.20660400390625,
+            32.03602003973755
+          ],
+          [
+            20.889129638671875,
+            32.34168110749222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f98806",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "00124 ODU4# Benghazi Ejdapia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.1434326171875,
+            32.17096283641326
+          ],
+          [
+            20.1104736328125,
+            30.713503990354965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#63ef06",
+        "marker-size": "medium",
+        "statuse": "start",
+        "station_name": "banghazi3",
+        "start_at": "3 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0885009765625,
+          32.15236189465577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#64eb0a",
+        "marker-size": "medium",
+        "statuse": "start",
+        "station_name": "banghazi3",
+        "start_at": "3 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.03082275390625,
+          32.14771106595571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#5df20d",
+        "marker-size": "medium",
+        "statuse": "start",
+        "station_name": "banghazi3",
+        "start_at": "3 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9786376953125,
+          32.145385562629315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#ec1f09",
+        "marker-size": "medium",
+        "statuse": "end",
+        "station_name": "ejdabys-1",
+        "end_at": "1 C-AD (O**24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0225830078125,
+          30.704058230919504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#ed2a07",
+        "marker-size": "medium",
+        "statuse": "end",
+        "station_name": "ejdabya-1",
+        "end_at": "1 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9346923828125,
+          30.69933500437198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#e62b0a",
+        "marker-size": "medium",
+        "statuse": "end",
+        "station_name": "ejdabya-1",
+        "end_at": "1 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.852294921874996,
+          30.69933500437198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ea8d0b",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "02304 ODU4# Benghazi Ejdapia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.093994140624996,
+            32.1570124860701
+          ],
+          [
+            20.0225830078125,
+            30.713503990354965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f28507",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "05095 ODU4# Benghazi Ejdapia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.033569335937496,
+            32.15236189465577
+          ],
+          [
+            19.92919921875,
+            30.704058230919504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1a0af5",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Connection_Name": "06434 ODU4# Benghazi Ejdapia",
+        "statuse": "submarine"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.973144531249996,
+            32.16166284018013
+          ],
+          [
+            19.8468017578125,
+            30.704058230919504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7deb0f",
+        "marker-size": "medium",
+        "statuse": "start",
+        "station_name": "ejdabya-2",
+        "start_at": "2 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.467529296875,
+          30.760718908944472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#4fe60a",
+        "marker-size": "medium",
+        "statuse": "start",
+        "station_name": "ejdabya-2",
+        "start_at": "2 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.643310546875,
+          30.64736425824319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#f21f07",
+        "marker-size": "medium",
+        "statuse": "end",
+        "station_name": "site-1",
+        "end_at": "1 C-AD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.005615234375,
+          31.071755902820133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#f5220a",
+        "marker-size": "medium",
+        "statuse": "end",
+        "station_name": "site-1",
+        "end_at": "1 C-AD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.12646484375,
+          31.024694128525137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ef8206",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Connection_Name": "01119 ODU4# Ejdapia Site 1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.467529296875,
+            30.770159115784214
+          ],
+          [
+            22.005615234375,
+            31.081165464590594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f27907",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Connection_Name": "09096 ODU4# Ejdapia Site 1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.643310546875,
+            30.675715404167743
+          ],
+          [
+            22.12646484375,
+            31.043521630684204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f11404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "station_name": "darna",
+        "statuse": "end",
+        "end_at": "2 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.642822265625,
+          32.62318347873869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#91ec09",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "station_name": "Tubruq ",
+        "statuse": "start",
+        "start_at": "4 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.763427734375,
+          31.96148355726853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f28507",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Connection_Name": "05093 ODU4# Derna Tobruk"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.75518798828125,
+            31.959153316146658
+          ],
+          [
+            22.642822265625,
+            32.62780989050403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f62804",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "station_name": "Darnna",
+        "statuse": "end",
+        "end_at": "3 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.576904296875,
+          32.43329491065414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f10404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "station_name": "Darnnna",
+        "statuse": "end",
+        "end_at": "3 C-AD (O24CC-1/A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.543945312499996,
+          32.6740608520923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ce6712",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Connection_Name": "03206 ODUC2# Byda Derna"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.93145751953125,
+            32.690243035492266
+          ],
+          [
+            22.54669189453125,
+            32.68099643258195
+          ]
+        ]
+      }
+    }
+  ]
+}

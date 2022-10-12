@@ -1,0 +1,54 @@
+		//https://raw.githubusercontent.com/mussatawerghi/elbedalocalstations/main/newfolder/jabal.json
+var rad;
+var color;
+var url = 'colredlinks.geojson';  // my GeoJSON data source, in the same folder as my HTML file.
+var map = L.map('map').setView([32.680996, 25.5], 7);
+var basemap = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: 'Basemap (c) <ahref="http://openstreetmap.org">OpenStreetMap</a>',
+ minZoom: 2,
+ maxZoom: 18 });  
+basemap.addTo(map);
+//	var osm=new L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png',{ 
+//				attribution: '© <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'});
+ function forEachFeature(feature, layer) {
+      var popupContent = "<p>The <b>" +	feature.properties.station_name + "</b> is here,</br> They are in the " +
+	feature.properties.company + "</b> is here,</br> They are in the " +"<p>Connection_Name :  <b>" +
+	feature.properties.Connection_Name + "</br>" +feature.geometry.coordinates +
+	'<a href="'+ feature.properties.website +'" target="_blank">Website</a></p>' ;
+	if (feature.properties && feature.properties.popupContent) {
+	popupContent += feature.properties.popupContent;
+	}
+   	layer.bindPopup(popupContent);
+       };
+
+			 map.on('click', function(ev) {
+//	map.setView([32.76133, 21.490234], 6);
+	alert(ev.latlng); // ev is an event object (MouseEvent in this case)
+});
+/////// drowing circles and sine varibles for color and size depinding on gejson data
+	  var bedaNetwork = L.geoJSON(null, {
+			onEachFeature: forEachFeature, 
+			pointToLayer: function (feature, latlng) {
+   // var  color=feature.properties.marker-color;
+		//	rad=feature.properties.circle_size;       
+    return   L.circleMarker(latlng, {
+			"radius":12,
+			'opacity': 1,
+		  'fillOpacity': .3});     
+  		},
+		style:function(feature){
+			switch(feature.properties.statuse){
+				case"start":return{color:"green"};
+					case"end":return{color:"red"};
+					case"submarine":return{color:"blue"};
+					default:return{color:"yellow"}
+			}}
+			  }) ;
+		    $.getJSON(url, function(data) {
+  			bedaNetwork.addData(data);
+     	});
+	bedaNetwork.addTo(map);
+
+
+
+
+

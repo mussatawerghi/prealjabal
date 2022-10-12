@@ -1,0 +1,48 @@
+marker-symbol,marker-color,marker-size,station_name,statuse,end_at,lon,lat,start_at
+,#f24207,medium,emsaed,end,2 C-AD,24.78515625,31.78188216,
+,#2df505,medium,drana,end,4 C-AD (O24CC-1/A),22.60437012,32.68330817,
+,#f20707,medium,tubrq,end,5 C-AD (O24CC-1\/A,23.92272949,31.75152533,
+,#e52706,medium,Jdabya,end,1 C-AD (O24CC-1\/A,20.11047363,30.71350399,
+,#df3207,medium,Banghazi,end,1 C-AD (O24CC-1\/A,20.20385742,32.24997446,
+,#7df406,medium,Elbeda,end,,21.92596436,32.69024304,2 C-AD (O24CC-1/A)
+,#ec2b09,medium,Drna,end,1 C-AD (O24CC-1\/A,22.61260986,32.7318409,
+,#f50505,medium,Tubruq,end,1 C-AD (O24CC-1\/A,23.88015747,32.09188262,
+,#5cf50a,medium,Emsaed,start,,24.81948853,31.70363472,1 C-AD
+,#7ded0c,medium,drna3,start,,22.5302124,32.7318409,4 C-AD (O24CC-1/A)
+,#80f708,medium,drna3,start,,22.51373291,32.58153501,4 C-AD (O24CC-1/A)
+,#7e7e7e,medium,Susa,start,,22.14019775,32.91417966,1/A)
+,#97f50a,medium,,start,,22.05505371,31.32548668,2 C-AD
+,#e91e07,medium,Elmarj,end,1 C-AD (O24CC-1\/A,20.87127686,32.49702178,
+,#48ef0b,medium,Tubruq-2,start,,23.95019531,32.08257456,2 C-AD (O24CC-1\/A
+,#47f109,medium,Tubruq-3,,,23.79638672,32.09188262,3 C-AD (O24CC-1\/A
+,#f50a0a,medium,Tubrq-4,start,,23.81835938,32.01972036,2 C-AD (O24CC-1\/A
+,#7aed07,medium,site 1-2,start,,22.06054687,31.19400751,2 C-AD
+,#e7440d,medium,Tubruq -5,end,5 C-AD (O24CC-1\/A,23.90625,31.83556598,
+,#7aef06,medium,Tulmetha,start,,20.96466064,32.68908726,1 C-AD
+,#10ed0c,medium,Tulmetha-2,start,,20.94406128,32.68330817,2 C-AD
+,#e62b0a,medium,Elmarj-2,end,2 C-AD (O24CC-1\/A,20.96466064,32.46806061,
+,#f24e07,medium,elbeda -2,end,1 C-AD (O24CC-1\/A,21.78588867,32.73646168,
+,#44e708,medium,elbeda-3,,,21.8572998,32.64862578,3 C-AD (O24CC-1\/A
+,#f20707,medium,benghazi-2,end,2 C-AD (O24CC-1\/A,20.2532959,32.20582937,
+,#2fec09,medium,Bnghazi-3,start,,20.15167236,32.15701249,3 C-AD (O24CC-1\/A
+,#22f406,medium,Benghazi-5,start,,20.19424438,32.12212727,5 C-AD (O24CC-1\/A
+,#ef2d0b,medium,Elmarj-5,end,5 C-AD (O24CC-1\/A,20.88912964,32.33820027,
+,#72ef0b,medium,Benghazi-5,start,,20.206604,32.03602004,5 C-AD (O24CC-1\/A
+,#f10404,medium,beda end 3,end,4 C-AD (O24CC-1/A),21.68426514,32.637062,
+,#2fec09,medium,marj-2start,start,,20.91659546,32.50744551,4 C-AD (O24CC-1/A)
+,#64ec09,medium,benghazi2,start,,20.31646729,32.25694277,2 C-AD (O24CC-1/A)
+,#f0380a,medium,marg-3,end,3 C-AD (O24CC-1/A),20.91659546,32.62780989,
+,#63ef06,medium,banghazi3,start,,20.08850098,32.15236189,3 C-AD (O24CC-1/A)
+,#64eb0a,medium,banghazi3,start,,20.03082275,32.14771107,3 C-AD (O24CC-1/A)
+,#5df20d,medium,banghazi3,start,,19.9786377,32.14538556,3 C-AD (O24CC-1/A)
+,#ec1f09,medium,ejdabys-1,end,1 C-AD (O**24CC-1/A),20.02258301,30.70405823,
+,#ed2a07,medium,ejdabya-1,end,1 C-AD (O24CC-1/A),19.93469238,30.699335,
+,#e62b0a,medium,ejdabya-1,end,1 C-AD (O24CC-1/A),19.85229492,30.699335,
+,#7deb0f,medium,ejdabya-2,start,,20.4675293,30.76071891,2 C-AD (O24CC-1/A)
+,#4fe60a,medium,ejdabya-2,start,,20.64331055,30.64736426,2 C-AD (O24CC-1/A)
+,#f21f07,medium,site-1,end,1 C-AD,22.00561523,31.0717559,
+,#f5220a,medium,site-1,end,1 C-AD,22.12646484,31.02469413,
+,#f11404,medium,,,2 C-AD (O24CC-1/A),22.64282227,32.62318348,
+,#91ec09,medium,,,,23.76342773,31.96148356,4 C-AD (O24CC-1/A)
+,#f62804,medium,,,3 C-AD (O24CC-1/A),22.5769043,32.43329491,
+,#f10404,medium,,,3 C-AD (O24CC-1/A),22.54394531,32.67406085,
